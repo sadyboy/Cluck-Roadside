@@ -8,9 +8,9 @@ workflows:
     environment:
       ios_signing:
         distribution_type: app_store
-        bundle_identifier: com.matsdahn.chickgiftroar
+        bundle_identifier: com.henkengleso.cluckroadside
       vars:
-        BUNDLE_ID: com.matsdahn.chickgiftroar
+        BUNDLE_ID: com.henkengleso.cluckroadside
         XCODE_PROJECT: "GardenMaster.xcodeproj"
         XCODE_SCHEME: "GardenMaster"
         APP_STORE_APPLE_ID: 6758459582
